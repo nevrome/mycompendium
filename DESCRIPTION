@@ -1,0 +1,13 @@
+Package: mycompendium
+Title: This is a Test Compendium.
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Clemens",
+           family = "Schmid",
+           role = c("aut", "cre"),
+           email = "clemens@nevrome.de")
+Description: Nothing so far.
+License: What license it uses
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
